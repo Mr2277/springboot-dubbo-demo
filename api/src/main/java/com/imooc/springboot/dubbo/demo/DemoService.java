@@ -6,4 +6,6 @@ public interface DemoService {
     String sayHello(String name);
 
     void create(User user);
+
+    User selectById(Long id);
 }

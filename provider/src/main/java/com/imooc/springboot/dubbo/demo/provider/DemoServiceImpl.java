@@ -21,4 +21,9 @@ public class DemoServiceImpl implements DemoService {
         userDao.insert(user);
     }
 
+    @Override
+    public User selectById(Long id) {
+        return userDao.queryById(id);
+    }
+
 }

@@ -21,4 +21,8 @@ public class DemoFacode {
         demoService.create(user);
     }
 
+    public User selectById(Long id) {
+        return demoService.selectById(id);
+    }
+
 }
