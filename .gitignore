@@ -8,6 +8,7 @@
 api/target/*
 consumer/target/*
 provider/target/*
+designer/target/*
 out
 gen
 将删除 .gitignore
@@ -22,3 +23,4 @@ gen
 将删除 provider/pom.xml
 将删除 provider/src/
 将删除 provider/target/
+将删除 designer/src/
