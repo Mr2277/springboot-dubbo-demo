@@ -24,3 +24,7 @@ gen
 将删除 provider/src/
 将删除 provider/target/
 将删除 designer/src/
+将删除 designer/src/main/java/com/lls/factory/simple/
+将删除 designer/src/main/resources/
+将删除 designer/src/test/
+将删除 designer/target/generated-sources/
