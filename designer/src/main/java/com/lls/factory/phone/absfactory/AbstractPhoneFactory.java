@@ -1,6 +1,6 @@
-package com.lls.factory.absfactory;
+package com.lls.factory.phone.absfactory;
 
-import com.lls.factory.before.Phone;
+import com.lls.factory.phone.before.Phone;
 
 public interface AbstractPhoneFactory {
 

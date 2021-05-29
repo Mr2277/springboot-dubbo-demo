@@ -1,4 +1,4 @@
-package com.lls.factory.before;
+package com.lls.factory.phone.before;
 
 public class AppleNonSmartPhone implements Phone {
 

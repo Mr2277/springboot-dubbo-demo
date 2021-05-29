@@ -1,6 +1,6 @@
-package com.lls.factory.simple;
+package com.lls.factory.phone.simple;
 
-import com.lls.factory.before.Phone;
+import com.lls.factory.phone.before.Phone;
 
 public class SimpleClient {
     public static void main(String[] args) {

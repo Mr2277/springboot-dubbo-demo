@@ -1,8 +1,8 @@
-package com.lls.factory.absfactory;
+package com.lls.factory.phone.absfactory;
 
-import com.lls.factory.before.MiNonSmartPhone;
-import com.lls.factory.before.MiPhone;
-import com.lls.factory.before.Phone;
+import com.lls.factory.phone.before.MiNonSmartPhone;
+import com.lls.factory.phone.before.MiPhone;
+import com.lls.factory.phone.before.Phone;
 
 public class MiAbstractPhoneFactoryImpl implements AbstractPhoneFactory {
 
