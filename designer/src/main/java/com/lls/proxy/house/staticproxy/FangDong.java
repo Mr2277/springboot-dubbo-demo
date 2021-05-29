@@ -1,4 +1,4 @@
-package com.lls.proxy.staticproxy;
+package com.lls.proxy.house.staticproxy;
 
 public class FangDong implements HouseTransaction {
 
