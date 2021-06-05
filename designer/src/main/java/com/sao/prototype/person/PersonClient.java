@@ -1,4 +1,5 @@
-package com.sao.prototype;
+package com.sao.prototype.person;
+
 
 public class PersonClient {
     public static void main(String[] args) throws CloneNotSupportedException {

@@ -1,4 +1,4 @@
-package com.sao.prototype;
+package com.sao.prototype.person;
 
 public abstract class AbstractPerson implements Cloneable {
 
