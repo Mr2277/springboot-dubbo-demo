@@ -1,4 +1,5 @@
-package com.sao.observer;
+package com.sao.observer.wechat;
+
 
 import java.util.ArrayList;
 import java.util.List;

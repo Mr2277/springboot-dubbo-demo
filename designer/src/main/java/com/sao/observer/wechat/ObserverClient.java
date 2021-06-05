@@ -1,4 +1,4 @@
-package com.sao.observer;
+package com.sao.observer.wechat;
 
 public class ObserverClient {
     public static void main(String[] args) {
