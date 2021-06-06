@@ -1,6 +1,8 @@
 package com.sao.prototype.dog;
 
-public class Dog implements Cloneable {
+import java.io.Serializable;
+
+public class Dog implements Cloneable, Serializable {
 
     public Dog clone() throws CloneNotSupportedException {
         return (Dog) super.clone();
